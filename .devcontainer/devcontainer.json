@@ -1,0 +1,7 @@
+{   // See https://docs.microsoft.com/en-us/visualstudio/online/reference/configuring
+
+    // Install Ruby and TestDriven extensions
+    "extensions": [
+        "JamieCansdale.testdriven"
+    ]
+  }
