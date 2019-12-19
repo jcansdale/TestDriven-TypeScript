@@ -1,0 +1,14 @@
+{
+  "name": "testdriven-for-typescript",
+  "version": "1.0.0",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+		"watch": "tsc -watch -p ./"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  }
+}
