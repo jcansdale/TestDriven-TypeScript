@@ -4,7 +4,7 @@
   "description": "Just a test",
   "main": "index.js",
   "scripts": {
-		"watch": "tsc -watch -p ./"
+    "watch": "tsc -watch -p ./"
   },
   "author": "Me",
   "license": "ISC",
